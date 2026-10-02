@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=2.1
+Type=Application
+Name=AgraMane
+Comment=Instrument Avansat de Securitate
+Exec=sudo /usr/local/bin/AgraMane
+Terminal=true
+Icon=utilities-terminal
+Categories=Development;Security;

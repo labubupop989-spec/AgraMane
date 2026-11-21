@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=AgraMane
-Comment=Network scanner and password cracker (needs root)
-Exec=konsole -e sudo /usr/bin/python3 "/home/vlad/AgraMane 2.0/AgraMane.py"
-Icon=utilities-terminal
-Type=Application
-Categories=System;Network;
-Terminal=false
